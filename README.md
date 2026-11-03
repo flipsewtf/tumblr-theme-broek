@@ -1,10 +1,10 @@
-# Broek — Theme Guide
+# Broek Tumblr Theme
 
 Please read this guide carefully before sending me any inquiries.
 
 > **License & terms**
 >
-> Broek Tumblr Theme is distributed by **Mournstera** is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) licence. Please carefully read my [terms of use](https://mournstera.tumblr.com/themes) before installing.
+> Broek Tumblr Theme, distributed by **Mournstera**, is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) licence. Please carefully read my [terms of use](https://mournstera.tumblr.com/themes) before installing.
 
 Broek is a responsive Tumblr theme with a single post column and a sticky sidebar that can be positioned on either the left or right side.
 
