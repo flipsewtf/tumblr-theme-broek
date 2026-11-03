@@ -15,6 +15,8 @@ Two examples with different options turned on:
 
 See the [theme guide](GUIDE.md) for installation and all options.
 
+The `.js` files in this repo are uploaded to Tumblr's Theme assets. The theme loads them from Tumblr's CDN, so all you need is `broek.html`.
+
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md).
