@@ -11,6 +11,8 @@ Two examples with different options turned on:
 - [Preview 1](https://flipseprvs.tumblr.com/broek1)
 - [Preview 2](https://flipseprvs.tumblr.com/broek2)
 
+Theme post: [Broek on Tumblr](https://mournstera.tumblr.com/post/699826674523652096)
+
 ## Install and customize
 
 See the [theme guide](GUIDE.md) for installation and all options.
